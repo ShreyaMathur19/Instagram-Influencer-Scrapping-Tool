@@ -1,0 +1,9 @@
+# config.py
+
+HEADLESS = False
+PAGE_LOAD_WAIT = 4000  # ms
+
+ACTION_DELAY_MIN = 2.0
+ACTION_DELAY_MAX = 4.0
+
+OUTPUT_DIR = "output"
